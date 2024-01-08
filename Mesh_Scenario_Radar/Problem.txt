@@ -1,0 +1,6 @@
+1.direction of antenna
+2.scatter plot seems weird
+3.kitti_scene: 
+antenna_look_dir = np.array([0.0, 0.0, 1.0])  #kitti
+error:
+pycuda._driver.LogicError: cuMemAlloc failed: invalid argument
